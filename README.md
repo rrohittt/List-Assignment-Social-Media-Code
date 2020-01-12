@@ -10,4 +10,4 @@ sites.append(site3)
 for site in sites:
     print("https://www." + site + ".com")
 
-Have fun :)
+:))
